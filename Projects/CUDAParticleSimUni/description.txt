@@ -1,0 +1,13 @@
+CUDA Particle Simulation
+---
+A university module focusing on GPU compute programming. In the module, I wrote CUDA code to simulate particles in an electric field.
+
+The renderer itself is simplistic, not needing to be excessively fancy to display the simulation accurately.
+
+I created a version of the simulation using Blender's Geometry Nodes for a high quality render of the simulation.
+---
+C++, CUDA, GLSL
+---
+thumbnail url (gets injected into your landing page) 
+---
+CUDAParticleSimUni.html
