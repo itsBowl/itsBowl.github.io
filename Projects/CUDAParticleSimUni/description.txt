@@ -8,6 +8,6 @@ I created a version of the simulation using Blender's Geometry Nodes for a high 
 ---
 C++, CUDA, GLSL
 ---
-https://nicerender.png
+/smallRender.png
 ---
 CUDAParticleSimUni.html
