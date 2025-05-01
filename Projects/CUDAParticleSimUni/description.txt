@@ -8,6 +8,6 @@ I created a version of the simulation using Blender's Geometry Nodes for a high 
 ---
 C++, CUDA, GLSL
 ---
-https://www.dropbox.com/scl/fi/disijhmr4rrv53ed4zrbq/smallRender.png?rlkey=lgwqy7d1exh846bnrwuitjz1b&st=zn0bux0c&dl=0
+https://previews.dropbox.com/p/thumb/ACo72pKVA2bHQxaycS4i2VauN-k0VLVt51vxKI_TgbsT4ZpxINe82M0NnF-kOP_SZI2jkN8OjVbkxzGJI-cnH3vcERBVJ7TcXxKxL26DuFZGzMPdxupx_Bzdq0Iy7oi_v-6AYU-CLcujBq85P4sR5J5A0OtnO-rJHPdFSP7Uzt8q8FtH7ggpTHHMx5t3aemc1MPtI84IlXiC_RjXxU852tCTupcsRQ0PXwGCb0_lsCMxIJmGErhCVI_eJDFBkxOio9gkZBloqhRZuO_UIaE1Co_lIs1swX2AJteVnEawV2ltXu-ha6sgdzUkgfoEv5lFG48/p.png
 ---
 CUDAParticleSimUni.html
