@@ -1,2 +1,5 @@
-/BlenderRender.png
+smallRender.png
 High quality image of the particle simulation rendered in blender 4.0
+
+simulation.png
+Visualisation of the simulation, rendered using lightweight openGL shaders
